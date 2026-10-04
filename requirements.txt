@@ -17,4 +17,4 @@ typing_extensions
 stardist-napari
 napari-trackastra
 empanada-napari
-pip uninstall PyQt5
+!pip uninstall PyQt5
