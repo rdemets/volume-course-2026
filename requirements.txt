@@ -1,5 +1,4 @@
 cellpose[gui]
-PyQt6
 napari[all]==0.6.6
 napari-animation
 napari-assistant
@@ -18,3 +17,4 @@ typing_extensions
 stardist-napari
 napari-trackastra
 empanada-napari
+pip uninstall PyQt5
