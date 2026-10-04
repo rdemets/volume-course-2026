@@ -1,4 +1,4 @@
-cellpose
+cellpose[gui]
 napari[all]==0.6.6
 napari-animation
 napari-assistant
